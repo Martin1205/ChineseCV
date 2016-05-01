@@ -9,6 +9,6 @@ latex CV template.
 
 同时，对于biblatex宏包造成的warning，只要忽略它即可运行。  
 
-使用前注意升级所有宏包即编译器。
+使用前注意升级所有宏包和编译器。
 
 
