@@ -2,7 +2,7 @@
 
 \ProvidesClass{resume_cover_letter}
 
-\LoadClass[10pt,a4paper,sans]{moderncv}
+\LoadClass[12pt,a4paper,sans]{moderncv}
 
 % Packages
 
